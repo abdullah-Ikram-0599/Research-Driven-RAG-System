@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+
+# Local datasets
+data/
+
+# Downloaded models & checkpoints
+models/
+
+# Vector database
+vector_db/
+
+# Environment variables
+.env
