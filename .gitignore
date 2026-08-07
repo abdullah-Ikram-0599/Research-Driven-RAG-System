@@ -20,7 +20,7 @@ data/
 models/
 
 # Vector database
-vector_db/
+vector_store/
 
 # Environment variables
 .env
